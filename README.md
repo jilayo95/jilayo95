@@ -5,5 +5,3 @@
 I'm Jeffrey from Philippines, and I do API in network devices.
 
 Skills: Python
-
-- 🔭 I’m currently working on this page. 

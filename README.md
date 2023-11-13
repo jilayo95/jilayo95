@@ -9,3 +9,5 @@ I'm Jeffrey from Philippines, and I do API in network devices.
 * 🐍 Python
 * 🔀 Load Balancer
 * ⛔ Firewall
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeffrey-oppuer-636478165//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wordpress.com/view/dijkstra845412766.wordpress.com)

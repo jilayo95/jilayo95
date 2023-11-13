@@ -1,9 +1,9 @@
 ![Network Security Engineer](https://dijkstra845412766.files.wordpress.com/2020/07/cropped-bb1e0e5b6cb8983895046f37ff8e1347.png)
 
-### Hi there 👋, Jeffrey Oppuer
+### Hi there 👋, I'm Jeffrey Oppuer
 #### Network Security Engineer
 
-I'm Jeffrey from Philippines, and I do API in network devices.
+I'm Jeff from Philippines, and I do API in network devices to automate day to day task in network devices using python.
 
 ## Skills and Experince
 * 🐍 Python

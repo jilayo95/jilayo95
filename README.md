@@ -1,4 +1,4 @@
-![](https://dijkstra845412766.files.wordpress.com/2023/11/picture1.png?w=1024)
+![](https://dijkstra845412766.files.wordpress.com/2023/11/picture1-1.png)
 
 ### Hi there 👋, I'm Jeffrey Oppuer
 #### Network Security Engineer

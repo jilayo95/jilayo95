@@ -1,4 +1,4 @@
-![Network Security Engineer]([https://dijkstra845412766.files.wordpress.com/2020/07/cropped-bb1e0e5b6cb8983895046f37ff8e1347.png](https://dijkstra845412766.files.wordpress.com/2023/11/picture1.png?w=1024))
+![Network Security Engineer]([https://dijkstra845412766.files.wordpress.com/2020/07/cropped-bb1e0e5b6cb8983895046f37ff8e1347.png](https://dijkstra845412766.files.wordpress.com/2023/11/picture1.png?w=1024)
 
 ### Hi there 👋, I'm Jeffrey Oppuer
 #### Network Security Engineer

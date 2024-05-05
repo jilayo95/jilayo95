@@ -1,6 +1,6 @@
 ![](https://dijkstra845412766.files.wordpress.com/2023/11/picture1-1.png)
 
-### Hi there 👋, I'm Jeffrey Oppuer
+### Hi there 👋
 #### Network Security Engineer
 
 I'm Jeff from Philippines, and I do API in network devices to automate day to day task in network devices using python.
